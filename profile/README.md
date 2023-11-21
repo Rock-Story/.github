@@ -1,4 +1,4 @@
-## Hi there 👋
+## Code repository for swim and rockstory research groups. 
 Best wishes from SWIM and RockStory.
 <!--
 
