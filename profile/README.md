@@ -1,7 +1,7 @@
 # Code repository for swim and rockstory research groups. 
 
 ## List of repositories
-### `rsfwi`  CUDA C full waveform inversion.
+### `rsfwi`  CUDA/MPI/OpenMP full waveform inversion.
 
 Best wishes from SWIM and RockStory.
 <!--
