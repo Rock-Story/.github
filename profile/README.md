@@ -1,6 +1,13 @@
 # Code repository for swim and rockstory research groups. 
 
-Best wishes from SWIM and RockStory.
+>**Some repositories are not visible to the public. If you are a member of this group, please contact me and join the organization.**
+
+Project in development:
+- rsfwi &#128679;
+
+
+## Best wishes from SWIM and RockStory.
+
 <!--
 
 **Here are some ideas to get you started:**
